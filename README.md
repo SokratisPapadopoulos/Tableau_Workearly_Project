@@ -6,7 +6,7 @@
 
 Use the provided dataset (Workearly – Tableau Exercise Sample 1) to complete the following tasks.
 
-## ✏️Taskss
+## ✏️Tasks
 
 - Task 1.
 
@@ -35,6 +35,7 @@ sub-category (row). Color it in a way that the can easily spot the products with
 
 - Task 7.
 
-CREATE YOUR FINAL DASHBOARD BY COMBINING ALL THE ABOVE VISUALS. FEEL FREE TO USE YOUR OWN AESTHETIC TO YOUR DASHBOARD. HINT: USE THE FILTER
-MODE ON ALL YOUR CHARS BUT IGNORE ACTIONS ON THE LINE CHAR WITH THE TOP 5 CITIES PERFORMANCE (TASK 4) AND THE COLUMN CHAR WITH THE SALES PER
-SEGMENT, CATEGORY AND SHIP MODE (TASK 5)
+Create your final dashboard by combining all the above visuals. Feel free to use your own aesthetic to your dashboard. Hint: Use the filter
+mode on all your chars but ignore actions on the line char with the top 5 cities performance (Task 4) and the column char with the sales per
+segment, category and ship mode (Task 5).
+
