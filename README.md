@@ -1,6 +1,6 @@
 # Tableau_Workearly_Project
 
-- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/Exploratory_data_analysis_with_SQL_and_ChatGPT)
+- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/Tableau_Workearly_Project)
 
 ## 📝 Project Task
 
