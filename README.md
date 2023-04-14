@@ -1,6 +1,6 @@
 # Tableau_Workearly_Project
 
-- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/Tableau_Workearly_Project)
+- [View the complete data analysis process](https://blossom-kookaburra-40c.notion.site/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=0ddb677ab94643ad834e922dcb499758&pm=c)
 
 ## 📝 Project Task
 
